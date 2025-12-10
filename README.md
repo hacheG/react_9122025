@@ -16,7 +16,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
 9-12-2025
-Curso React: 3. Sintaxis JSX - jonmircha 26:47
-Curso React: 4. Componentes - jonmircha 17:56
-Curso React: 5. Propiedades - jonmircha 29:54
-Curso React: 6. Estado - jonmircha 19:03
+- Curso React: 3. Sintaxis JSX - jonmircha 26:47
+- Curso React: 4. Componentes - jonmircha 17:56
+- Curso React: 5. Propiedades - jonmircha 29:54
+- Curso React: 6. Estado - jonmircha 19:03
