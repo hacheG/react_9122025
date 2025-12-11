@@ -6,6 +6,10 @@ import './App.css'
 import Componente from './components/Componente'
 import Propiedades from './components/Propiedades'
 import Estado from './components/Estado'
+import RenderizadoCondicional from './components/RenderizadoCondicional'
+import RenderizadoElementos from './components/RenderizadoElementos'
+import Eventos from './components/Eventos'
+import Eventos2 from './components/Eventos2'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -33,6 +37,14 @@ function App() {
       <Propiedades/>
       <hr />
       <Estado/>
+      <hr />
+      <RenderizadoCondicional/>
+      <hr />
+      <RenderizadoElementos/>
+      <hr />
+      <Eventos/>
+      <hr />
+      <Eventos2/>
     </section>
     </div>
   )

@@ -20,3 +20,13 @@ If you are developing a production application, we recommend using TypeScript wi
 - Curso React: 4. Componentes - jonmircha 17:56
 - Curso React: 5. Propiedades - jonmircha 29:54
 - Curso React: 6. Estado - jonmircha 19:03
+
+10-12-2025
+- Curso React: 7. Renderizado Condicional - jonmircha 8:53
+- Curso React: 8. Renderizado de Elementos - jonmircha 22:26
+- Curso React: 9. Eventos & Binding - jonmircha 22:55
+- Curso React: 10. Eventos & Property Initializers - jonmircha 11:53
+- Curso React: 11. Eventos Nativos, Sintéticos & Personalizados - jonmircha 19:14
+- Curso React: 12. Comunicación entre Componentes - jonmircha 26:23
+
+
