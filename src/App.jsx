@@ -10,6 +10,9 @@ import RenderizadoCondicional from './components/RenderizadoCondicional'
 import RenderizadoElementos from './components/RenderizadoElementos'
 import Eventos from './components/Eventos'
 import Eventos2 from './components/Eventos2'
+import ComunicacionComponentes from './components/ComunicacionComponentes'
+import CicloVida from './components/CicloVida'
+import AjaxApis from './components/AjaxApis'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -45,6 +48,13 @@ function App() {
       <Eventos/>
       <hr />
       <Eventos2/>
+      <hr />
+      <ComunicacionComponentes/>
+      <hr/>
+      <CicloVida/>
+      <hr />
+      <AjaxApis/>
+      
     </section>
     </div>
   )

@@ -27,6 +27,11 @@ If you are developing a production application, we recommend using TypeScript wi
 - Curso React: 9. Eventos & Binding - jonmircha 22:55
 - Curso React: 10. Eventos & Property Initializers - jonmircha 11:53
 - Curso React: 11. Eventos Nativos, Sintéticos & Personalizados - jonmircha 19:14
-- Curso React: 12. Comunicación entre Componentes - jonmircha 26:23
 
+13 -12-2025
+- Curso React: 12. Comunicación entre Componentes - jonmircha 26:23
+- Curso React: 13. Ciclo de Vida de los Componentes - jonmircha 33:16
+
+15-12-2025
+- Curso React: 14. Peticiones Asíncronas (AJAX y API's) - jonmircha 24:11
 
