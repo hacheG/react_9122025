@@ -28,7 +28,7 @@ export default class AjaxApis extends Component {
                     fetch(el.url)
                         .then(res => res.json())
                         .then( json => {
-                            console.log(json)
+                            // console.log(json)
                             // console.log(json.sprites.front_default)
                             // console.log("nombre",el.name)
                             let pokeJoin = {
@@ -51,7 +51,7 @@ export default class AjaxApis extends Component {
         return(
             <>
                 <h2>peticiones asincronas en componentes de clase - Ajax Apis</h2>
-                {this.state.pokemons.map( poke => <Pokemon key={poke.id} name={poke.nombre} avatar={poke.sprite}/>)}
+                {this.state.pokemons.map( (poke, index) => <Pokemon key={index} name={poke.nombre} avatar={poke.sprite}/>)}
                 
             </>
         )
