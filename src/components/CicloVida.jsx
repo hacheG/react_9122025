@@ -3,7 +3,7 @@ import React, {Component} from "react";
 export default class CicloVida extends Component {
     constructor(props){
         super(props)
-        console.log(0, "el componente se inicializa, aun NO esta en el DOM");
+        // console.log(0, "el componente se inicializa, aun NO esta en el DOM");
         
         this.temporizador = null;
         this.state = {
@@ -13,14 +13,14 @@ export default class CicloVida extends Component {
     }
 
     componentDidMount() {
-        console.log(1, "el componente ya se encuentra en el DOM");
+        // console.log(1, "el componente ya se encuentra en el DOM");
         
     }
 
     componentDidUpdate(prevprops, prevState){
-        console.log(2, "El estado o las props han cambiado");
-        console.log("prevprops",prevprops);
-        console.log("prevState", prevState);
+        // console.log(2, "El estado o las props han cambiado");
+        // console.log("prevprops",prevprops);
+        // console.log("prevState", prevState);
         
     }
 
@@ -46,7 +46,7 @@ export default class CicloVida extends Component {
     }
 
     render(){
-        console.log(4, "el componente se dubuja o redibuja por algun cambio en el DOM");
+        // console.log(4, "el componente se dubuja o redibuja por algun cambio en el DOM");
         
         return(
             <>
