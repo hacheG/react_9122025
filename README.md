@@ -43,7 +43,10 @@ If you are developing a production application, we recommend using TypeScript wi
 
 17-12-2025
 - Curso React: 19. Peticiones Asíncronas con Hooks (AJAX y API's) - jonmircha 19:55
+
+18-12-2025
 - Curso React: 20. Custom Hooks - jonmircha 30:16
+
 
 
 
