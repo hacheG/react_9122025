@@ -6,8 +6,8 @@ export default function HooksPersonalizados(){
     let url2 = "https://pokeapi.co/api/v2/pokemons/";
     let url = "https://jsonplaceholder.typicode.com/users";
     const {data,isPending, error} = useFetch(url)
-    console.log(data)
-    console.log(error)
+    // console.log(data)
+    // console.log(error)
     return(
         <>
             <h2>Hooks Personnalizados</h2>
