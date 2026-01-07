@@ -10,7 +10,7 @@ export default function Formularios(){
         e.preventDefault()
         alert("el formulario se ha enviado")
     }
-    // console.log(sabor)s
+
     return(
         <>
             <h2>Formularios</h2>

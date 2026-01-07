@@ -51,4 +51,9 @@ If you are developing a production application, we recommend using TypeScript wi
 - Curso React: 21. Referencias - jonmircha 21:57
 - Curso React: 22. Formularios - jonmircha 38:32
 
+6-01-2026
+- Curso React: 23. Estilos CSS - jonmircha 25:25
+- Curso React: 24. 💅🏾 Styled Components - jonmircha 39:34
+- Curso React: 25. Frameworks CSS con React - jonmircha 29:18
+
 
